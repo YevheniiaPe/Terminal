@@ -1,0 +1,45 @@
+Termial. HW_2
+
+1. Create a folder dir_1
+2. Go into the folder dir_1
+3. Create a folder inner_dir_1
+4. Check where you are
+5. While in the folder dir_1, create an empty text file called tf_1.txt
+6. While in the folder dir_1, use the command "cat" to create a text file called tf_2.txt with the following lines:
+- the first 1
+- the second 2
+- the third 3
+7. Go into the folder inner_dir_1
+8. Use "cat" to create a text file called tf_3.txt with any lines you want
+9. Use "cat" to add the line "the second 2" to the text file tf_3.txt
+10. Use "cat" to add the line "the sec 2" to the text file tf_3.txt
+11. Use "cat" to add the line "the sec 3" to the text file tf_2.txt
+12. Use "cat" to add the line "the SeCoNd 2" to the text file tf_3.txt
+13. Use "cat" to add the line "the seConD 2" to the text file tf_2.txt
+14. Create a text file called tf_4.txt with 15 lines
+15. Create a text file called tF_5.txt with 13 lines
+16. Display a list of all files in the folder
+17. Go out of the folder inner_dir_1
+18. Display the contents of the file tf_3.txt in the terminal
+19. Find the path to the file tf_4.txt
+20. Clear the contents of the file tf_4.txt without deleting the file itself.
+21. Find the path to files that have "tf" in their name.
+22. Find the path to files that have "tf" in their name with letters in any case.
+23. Find the lines in files that contain the combination of letters "sec" in the current folder.
+24. Find the lines in files that contain the combination of letters "sec" in any case in the current folder.
+25. Find the lines in files that contain only the combination of letters "sec" in the current folder.
+26. Find the lines in files that contain only the combination of letters "sec" in any case in the current folder.
+27. Find the lines in files that contain the combination of letters "second" in the current folder.
+28. Find the lines in files that contain the combination of letters "second" in any case in the current folder.
+29. Find the lines in files that contain the combination of letters "second" in all subfolders.
+30. Find only the path and name of the files in which the combination of letters "second" appears in the current folder.
+31. Find all the lines in all files where there is no combination of "second".
+32. Find only the name and path to files where there is no combination of "second".
+33. Print the last 4 lines of any text file to the terminal.
+34. Print the first 4 lines of any text file to the terminal.
+35. One-line command. Create a folder and create a text file with content.
+36. One-line command. Move to any one folder text files that contain the word "sec" in the content.
+37. One-line command. Copy to any one folder text files that contain the word "sec" in the content.
+38. One-line command. Find all lines with "sec" in all text files, copy and paste these lines into one newly created text file.
+39. One-line command. Delete text files that contain the word "sec" in the content.
+40. Simply print the string "Good job!!" to the terminal.
